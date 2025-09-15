@@ -1,5 +1,7 @@
 Aluno: Juan Gabriel Assis de Souza
+
 Projeto: Utilizando o conceito de Pilha no Controle de Pratos na Cantina
+
 Explicação:
 
 A pilha funciona como uma organização natural para os pratos na cantina: o último prato que foi colocado é o primeiro a ser retirado. 
